@@ -14,9 +14,10 @@ Imagens da interface web:
 <img src="cadastro.png" width="500">
 
 Imagens da interface mobile:
-<img src="app-mobile.png" width="500">
-<img src="detalhe-mobile.png" width="500">
-<img src="cadastro-mobile.png" width="500">
+
+<img src="app-mobile.png" width="200">
+<img src="detalhe-mobile.png" width="200">
+<img src="cadastro-mobile.png" width="200">
 
 ## Rodando a aplicação:
 
