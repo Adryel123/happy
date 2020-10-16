@@ -1,7 +1,8 @@
 import axios from 'axios'
+import REACT_NATIVE_LOCALHOST_ADDRESS from "../../env";
 
 const api = axios.create({
-    baseURL: `http://${process.env.LOCALHOST_ADDRESS}:3333`,
+    baseURL: `http://${REACT_NATIVE_LOCALHOST_ADDRESS}:3333`,
 })
 
 export default api
